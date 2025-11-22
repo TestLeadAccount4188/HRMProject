@@ -7,6 +7,10 @@ import org.testng.annotations.AfterClass;
 public class TestPIMPage {
   @Test
   public void f() {
+	  
+	  System.out.println("welcome to git hub");
+	  System.out.println("welcome to git ");
+	  System.out.println("multiple statemnets added");
   }
   @BeforeClass
   public void beforeClass() {
