@@ -9,6 +9,8 @@ public class TestPIMPage {
   public void f() {
 	  
 	  System.out.println("welcome to git hub");
+	  System.out.println("welcome to git ");
+	  System.out.println("multiple statemnets added");
   }
   @BeforeClass
   public void beforeClass() {
